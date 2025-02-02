@@ -1,0 +1,73 @@
+id,title,description
+two_dates,Two Dates,"### 1. Two Dates
+
+Mateusz has 12 cards with digits:
+
+`0 0 1 1 2 2 3 3 4 4 5 5`
+
+and he arranges them to form dates. The first date of 2025 that he can create using two cards to form the day number, two other cards to form the month number, and four other cards to form the year number will be January 13:
+
+`1 3 0 1 2 0 2 5`
+
+**What will be the last date in 2025 that Mateusz can create using eight of these twelve cards?**"
+aquarium,Aquarium,"### 2. Aquarium
+
+In the aquarium, there are octopuses with eight arms and starfish with five arms.
+
+**How many starfish are there in the aquarium if the total number of arms of all the animals living in it is 41?**"
+in_the_maze,In the Maze,"### 3. In the Maze
+
+In the maze, the rooms are numbered from 0 to 15. Moving between rooms triggers an alarm, except when:
+
+- Moving to a room with a number exactly 3 greater than the current room, or 
+- Moving to a room with a number exactly 13 less than the current room.
+
+We enter the maze through room number 0 and exit through room number 1.
+
+**How many rooms will we pass through (including rooms 0 and 1) if we never trigger the alarm along the way?**
+
+#### Maze Layout:
+
+```
+9 12 15 2
+6 7 4 5
+3 10 11 8
+0 13 14 1
+```"
+race_to_2025,Race to 2025!,"### 4. Race to 2025!
+
+```
+G N A J
++ N A
+-----------
+2 0 2 5
+```
+
+In this coded addition, different letters represent different digits, and the same digit is always represented by the same letter. Additionally, none of the multi-digit numbers start with zero.
+
+**What is the value of NA?**"
+four-friends,Four Friends,"### 5. Four Friends
+
+Anna, Bartosz, Cezary, and Danuta are four friends. Each of them is preparing for a specific profession: archaeologist, bookkeeper, carpenter, and dentist. It is known that Bartosz will be a dentist. Only one of these people is training for a profession that starts with the same letter as their name, and that person is **not** Anna.
+
+**What professions did Anna and Danuta choose?**"
+lost-scale-pan,The Lost Scale Pan,"## 6. The Lost Scale Pan
+
+Robert lost the right pan of his balance scale and had to use a different one — slightly heavier than the original. Now, with empty pans, his scale does not show balance.
+
+However, Robert noticed that when he places a full bottle of juice on the right pan and 9 identical empty bottles on the left pan, the scale is balanced.
+
+The same happens when Robert places two empty bottles on the right pan and a bottle filled halfway with juice on the left pan.
+
+**How many times heavier is the full bottle of juice compared to an empty bottle?**"
+on-the-plus-side,On the Plus Side,"### 7. On the Plus Side
+
+_ _ _ _ _ _
+
+Place all the numbers 1, 2, 3, 4, 5, and 7 in the boxes in such a way that the first number is smaller than the last, and in every set of three consecutive boxes, there are two numbers and their sum."
+hats,Hats,"### 8. Hats
+
+Pola has a pair of plush monsters: a three-headed Cerberus and a two-headed Dragon. She really enjoys playing with these plush toys by putting hats on their heads. Pola has four identical white hats, two identical green hats, and one red hat. It is known that each of these hats can be placed on any head of Cerberus or the Dragon.
+
+**In how many different ways can Pola put the hats on her plush toys so that each head has exactly one hat?** 
+Two ways of putting on the hats are considered different if the hats on at least one head of one of the plush toys are of different colors."
